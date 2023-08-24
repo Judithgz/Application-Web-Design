@@ -13,9 +13,9 @@ Markdown is for editting the ReadMe text where people downloading or seeing your
 https://github.com/Judithgz/Application-Web-Design
 
 ### **Taggin Options**
-Use # for first-level heading
-Use ## for second-level heading
-Use ### for third-level heading
+# first-level heading
+## second-level heading
+### third-level heading
 
 Use > for text in quotes
 > Text that is a quote
